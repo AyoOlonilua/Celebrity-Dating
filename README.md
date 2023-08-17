@@ -1,10 +1,11 @@
-# Calculator
+# Celebrity-Dating
 By AYO-OLONILUA AYOMIPE
 
 # TECHNOLOGIES USED
 
 - HTML
 - CSS
+- Bootstrap
 - Javascript
 
 # Known Bugs
@@ -13,7 +14,7 @@ By AYO-OLONILUA AYOMIPE
 
 # Description
 
-It is used for calculating integers i.e Addition, Subtraction, Division, Multiplication etc.
+It is used for determining various factors one possess to know who one's celebrity match is.
 
 # Setup/Installation Requirements
 
