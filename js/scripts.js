@@ -135,7 +135,7 @@ $(document).ready(function() {
         } else {
             $("#match0").hide();
             $("#matchx").show();
-        }
+        }q
     
         e.preventDefault();
     });
