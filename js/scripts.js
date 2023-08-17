@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    $("form#register").submit(function(e) {
         const gender = $("select#gender").val();
 
         if (gender === 'female') {
